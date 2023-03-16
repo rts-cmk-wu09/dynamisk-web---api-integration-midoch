@@ -51,3 +51,10 @@ body {
   text-align: center;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 }
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  margin-bottom: 1em;
+}
